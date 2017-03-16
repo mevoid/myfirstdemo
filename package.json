@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mevoid/myfirstdemo/issues"
   },
-  "homepage": "https://github.com/mevoid/myfirstdemo#readme"
+  "homepage": "https://github.com/mevoid/myfirstdemo#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
