@@ -1,0 +1,24 @@
+{
+  "name": "myfirstdemo",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mevoid/myfirstdemo.git"
+  },
+  "keywords": [
+    "demo",
+    "test",
+    "mevoid"
+  ],
+  "author": "Sanjay <sanjay.surendran@gmail.com> (http://sanjay.surendran.name/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mevoid/myfirstdemo/issues"
+  },
+  "homepage": "https://github.com/mevoid/myfirstdemo#readme"
+}
